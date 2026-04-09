@@ -1,2 +1,25 @@
-# Skyup-web-qa-testing
-End-to-end QA testing of SkyUp web application including functional, UI/UX, and validation testing with detailed bug reporting across multiple modules.
+# SkyUp Web QA Testing
+
+## 🔍 Application Tested
+- SkyUp Web Application
+
+## 🧪 Modules Tested
+- Chat Module
+- Dashboard
+- Login
+- UP List
+- Dealership Module
+
+## 🧪 Testing Types
+- Manual Testing
+- Functional Testing
+- UI/UX Testing
+- API Testing
+- Performance Testing
+
+## 🐞 Bug Tracking
+All bugs are reported using GitHub Issues.
+
+---
+
+👤 SQA Engineer: Mubah Naseem
