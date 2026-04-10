@@ -9,6 +9,8 @@
 - Login
 - UP List
 - Dealership Module
+- User
+- GeoFence
 
 #  Testing Types
 - Manual Testing
@@ -17,8 +19,12 @@
 - API Testing
 - Performance Testing
 
-# Bug Tracking
-All bugs are reported using GitHub Issues.
+## Tools Used
+
+- Manual Testing
+- Test Management System (TMS) for Bug Tracking
+- JMeter(Performance Testing)
+- Postman (API Testing - basic)
 
 ---
 
