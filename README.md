@@ -2,6 +2,7 @@
 
 #  Application Tested
 - SkyUp Web Application
+SkyUp.ai is a web-based application designed to manage dealership operations, including customer interactions, appointments, sales tracking, and performance monitoring through an interactive dashboard.
 
 #  Modules Tested
 - Chat Module
