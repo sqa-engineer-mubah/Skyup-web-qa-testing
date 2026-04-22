@@ -21,9 +21,10 @@ The testing covers core dealership operations including customer interactions, a
 ### Modules Tested:
 - Authentication (Login/Logout)  
 - Dashboard  
-- Turn With Feature  
-- Sales & Appointments  
-- User Management  
+- GeoFence  
+- Chats 
+- Users
+- Dealership
 
 ---
 
@@ -32,7 +33,8 @@ The testing covers core dealership operations including customer interactions, a
 - ✅ UI/UX Testing  
 - ✅ Validation Testing  
 - ✅ Regression Testing  
-- ✅ Exploratory Testing  
+- ✅ API Testing
+- Performance Testing
 
 ---
 
