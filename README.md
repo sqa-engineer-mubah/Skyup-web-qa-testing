@@ -1,13 +1,13 @@
 # SkyUp Web QA Testing
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains comprehensive **manual testing documentation** for the SkyUp Web Application. The goal of this project is to ensure the quality, reliability, and usability of the application through structured testing approaches.
 
 The testing covers core dealership operations including customer interactions, appointments, sales tracking, and dashboard functionalities.
 
 ---
 
-## 🎯 Testing Objectives
+##  Testing Objectives
 - Validate application functionality against requirements  
 - Identify UI/UX inconsistencies  
 - Ensure data validation and integrity  
@@ -16,7 +16,7 @@ The testing covers core dealership operations including customer interactions, a
 
 ---
 
-## 🧪 Testing Scope
+##  Testing Scope
 
 ### Modules Tested:
 - Authentication (Login/Logout)  
@@ -29,16 +29,16 @@ The testing covers core dealership operations including customer interactions, a
 ---
 
 ## 🔍 Types of Testing Performed
-- ✅ Functional Testing  
-- ✅ UI/UX Testing  
-- ✅ Validation Testing  
-- ✅ Regression Testing  
-- ✅ API Testing
+-  Functional Testing  
+-  UI/UX Testing  
+-  Validation Testing  
+-  Regression Testing  
+-  API Testing
 - Performance Testing
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - Manual Testing Techniques  
 - Browser Developer Tools  
 - GitHub (for documentation & version control)
@@ -47,7 +47,7 @@ The testing covers core dealership operations including customer interactions, a
 
 ---
 
-## 🌐 Test Environment
+##  Test Environment
 - Application: SkyUp Web App  
-- Browser: Google Chrome  
+- Browser: Google Chrome,FireFox,Microsoft Edge 
 - OS: Windows  
