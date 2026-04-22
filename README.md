@@ -1,32 +1,51 @@
 # SkyUp Web QA Testing
 
-#  Application Tested
-- SkyUp Web Application
-SkyUp.ai is a web-based application designed to manage dealership operations, including customer interactions, appointments, sales tracking, and performance monitoring through an interactive dashboard.
+## 📌 Project Overview
+This repository contains comprehensive **manual testing documentation** for the SkyUp Web Application. The goal of this project is to ensure the quality, reliability, and usability of the application through structured testing approaches.
 
-#  Modules Tested
-- Chat Module
-- Dashboard
-- Login
-- UP List
-- Dealership Module
-- User
-- GeoFence
-
-#  Testing Types
-- Manual Testing
-- Functional Testing
-- UI/UX Testing
-- API Testing
-- Performance Testing
-
-## Tools Used
-
-- Manual Testing
-- Test Management System (TMS) for Bug Tracking
-- JMeter(Performance Testing)
-- Postman (API Testing - basic)
+The testing covers core dealership operations including customer interactions, appointments, sales tracking, and dashboard functionalities.
 
 ---
 
-SQA Engineer: Mubah Naseem
+## 🎯 Testing Objectives
+- Validate application functionality against requirements  
+- Identify UI/UX inconsistencies  
+- Ensure data validation and integrity  
+- Detect and report bugs with proper documentation  
+- Improve overall user experience  
+
+---
+
+## 🧪 Testing Scope
+
+### Modules Tested:
+- Authentication (Login/Logout)  
+- Dashboard  
+- Turn With Feature  
+- Sales & Appointments  
+- User Management  
+
+---
+
+## 🔍 Types of Testing Performed
+- ✅ Functional Testing  
+- ✅ UI/UX Testing  
+- ✅ Validation Testing  
+- ✅ Regression Testing  
+- ✅ Exploratory Testing  
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Manual Testing Techniques  
+- Browser Developer Tools  
+- GitHub (for documentation & version control)
+- POSTMAN (API Testing)
+- JMETER(Performance Testing)
+
+---
+
+## 🌐 Test Environment
+- Application: SkyUp Web App  
+- Browser: Google Chrome  
+- OS: Windows  
